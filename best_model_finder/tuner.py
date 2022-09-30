@@ -1,5 +1,5 @@
 """
-This class will find the best Model and tune the Hyperparameters for the models and
+This class will find the best model possible and fine tune the trainable parameters using techniques such as Grid Search 
 """
 from email.contentmanager import raw_data_manager
 from sklearn.svm import SVC
